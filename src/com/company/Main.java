@@ -14,6 +14,7 @@ public class Main {
         doIt(team, course);
         showResults(team);
 
+
     }
 
     private static void doIt(Team[] team, Course course) {
