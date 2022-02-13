@@ -23,5 +23,4 @@ public class Course {
     int getCrowlDist() {
         return this.crowlDist;
     }
-
 }

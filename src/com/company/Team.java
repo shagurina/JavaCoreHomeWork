@@ -16,9 +16,8 @@ public class Team {
 
     String showResults() {
         return this.name + " run " + this.run + " m, jump " +  this.jump + "m, crowl" + this.crowl + " m ";
-
     }
-
+    
     int getRun() {
         return this.run;
     }
