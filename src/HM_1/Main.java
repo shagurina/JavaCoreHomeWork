@@ -1,4 +1,4 @@
-package com.company;
+package HM_1;
 
 public class Main {
 
@@ -6,10 +6,11 @@ public class Main {
         Team[] team = {
                 new Team("Artem", 200, 1, 10 ),
                 new Team("Boris", 300, 2, 20),
-                new Team("Vladimir", 400, 1, 30)
+                new Team("Vladimir", 400, 1, 30),
+                new Team("Gennady", 350, 1, 22)
         };
 
-        Course course = new Course(250, 2, 20);
+        Course course = new Course(250, 1, 20);
 
         doIt(team, course);
         showResults(team);

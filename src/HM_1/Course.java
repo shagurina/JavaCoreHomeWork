@@ -1,4 +1,4 @@
-package com.company;
+package HM_1;
 
 public class Course {
 
